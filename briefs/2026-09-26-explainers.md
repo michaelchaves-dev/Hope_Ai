@@ -27,6 +27,10 @@ Cobenfy (EMERGENT PANSS), Wegovy (STEP 1), Zepbound (SURMOUNT-1), Casgevy (93.5%
 - No disease cured/crossed-off language.
 - Thin 2025 Modeyso/Forzinity rows kept honest with `label AEs not sourced this run` pending deeper label parse.
 
+## Permanent sources (see [`sources/PERMANENT.md`](../sources/PERMANENT.md))
+
+Standing check path reused from daily brief item 10 / README. This schema-retrofit note does not re-fetch AWG or Moonshots; latest verified notes remain in `sources/PERMANENT.md` and daily brief item 10.
+
 ## Follow-up for later daily runs
 
 Prefer DailyMed / Drugs@FDA label PDFs when FDA HTML is blocked; replace `label AEs not sourced` lines as labels are opened.
