@@ -85,3 +85,41 @@ Each named product row includes a short **Explainer** paragraph (treat / mechani
 - **[news]** Moonshots AMA #293 (2026-09-22) — permanent podcast check
   **Explainer:** N/A — process news.
   https://podscripts.co/podcasts/moonshots-with-peter-diamandis/ask-the-mates-anything-round-2-moonshots-ama-293
+
+## Historical landmarks (backfill 2026-09-26)
+
+Curated ~35 sourced landmarks (2020–2025 plus notable earlier-2026 YTD already above). Prefer FDA novel-drug year lists, CBER gene-therapy press, and journal records. Not an encyclopedia.
+
+### 2025 (selected CDER novel / first-in-class)
+
+- **[approved]** Journavx (suzetrigine) — novel non-opioid analgesic (Nav1.8); CDER novel 2025-01-30
+  **Explainer:** Treats moderate-to-severe acute pain (non-opioid). Active: suzetrigine (Nav1.8 sodium-channel inhibitor). Origin not sourced this run. Label common AEs include itching, muscle spasms, raised CPK, and rash; avoid strong CYP3A inhibitors/grapefruit per label. Snapshot: CDER novel approval 2025-01-30. Cite label / novel-drug list.
+  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025
+
+- **[approved]** Blujepa (gepotidacin) — novel oral antibacterial; CDER novel 2025-03-25
+  **Explainer:** Treats uncomplicated urinary tract infections (per label indication). Active: gepotidacin (novel bacterial topoisomerase inhibitor antibacterial). Origin not sourced this run. Common AEs include diarrhea, nausea, abdominal pain, headache, dizziness, candidiasis; serious risks include QTc prolongation, cholinergic effects, hypersensitivity, and C. difficile infection per label. Snapshot: CDER novel 2025-03-25. Cite label / novel-drug list.
+  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025
+
+- **[approved]** Qfitlia (fitusiran) — antithrombin-lowering RNAi for hemophilia; CDER novel 2025-03-28
+  **Explainer:** Prophylaxis to prevent or reduce bleeding in hemophilia. Active: fitusiran (antithrombin-lowering siRNA). Origin not sourced this run. Serious risks flagged include thrombosis, gallbladder disease, and hepatotoxicity; common infections/nasopharyngitis noted in review materials. Snapshot: CDER novel 2025-03-28. Cite novel-drug list / approval materials.
+  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025
+
+- **[approved]** Modeyso (dordaviprone) — novel oncology agent (CDER novel 2025-08-06)
+  **Explainer:** Oncology indication per CDER novel 2025 listing (dordaviprone). Origin not sourced this run. Label AEs not sourced this run. Snapshot: CDER novel approval 2025-08-06. Cite novel-drug list.
+  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025
+
+- **[approved]** Brinsupri (brensocatib) — first DPP1 inhibitor for non-cystic fibrosis bronchiectasis; CDER novel 2025-08-12
+  **Explainer:** Treats non-cystic fibrosis bronchiectasis. Active: brensocatib (DPP1 / cathepsin C inhibitor). Origin not sourced this run. Common AEs reported include respiratory infection, headache, rash, dry skin, hyperkeratosis, hypertension. Snapshot: first DPP1 inhibitor for this indication; CDER novel 2025-08-12. Cite novel-drug list.
+  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025
+
+- **[approved]** Forzinity (elamipretide) — mitochondrial-targeted peptide; CDER novel 2025-09-19
+  **Explainer:** Mitochondrial-targeted peptide therapy (elamipretide) per CDER novel 2025 listing. Origin not sourced this run. Label AEs not sourced this run. Snapshot: CDER novel 2025-09-19. Cite novel-drug list.
+  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025
+
+- **[approved]** Komzifti (ziftomenib) — menin inhibitor for KMT2A-rearranged AML; CDER novel 2025-11-13
+  **Explainer:** Treats KMT2A-rearranged acute myeloid leukemia. Active: ziftomenib (menin inhibitor). Origin not sourced this run. Label AEs not sourced this run. Snapshot: CDER novel 2025-11-13. Cite novel-drug list.
+  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025
+
+- **[approved]** Myqorzo (aficamten) — cardiac myosin inhibitor for obstructive HCM; CDER novel 2025-12-19
+  **Explainer:** Treats obstructive hypertrophic cardiomyopathy. Active: aficamten (cardiac myosin inhibitor). Origin not sourced this run. Serious risk of heart failure requires echo monitoring/REMS per label materials; hypertension among noted AEs. Snapshot: CDER novel 2025-12-19. Cite novel-drug list / label materials.
+  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025
