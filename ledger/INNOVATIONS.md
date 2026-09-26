@@ -24,3 +24,21 @@ Each named product row includes a short **Explainer** paragraph (treat / mechani
 - **[approved]** FDA approves lirafugratinib (Lyrfigtu) for previously treated unresectable/metastatic FGFR2-altered cholangiocarcinoma — 2026-09-23
   **Explainer:** Treats previously treated unresectable or metastatic FGFR2-altered cholangiocarcinoma. Active ingredient lirafugratinib (FGFR inhibitor). Origin not sourced this run. FDA materials flag ocular toxicity, hyperphosphatemia, soft-tissue mineralization, and fetal toxicity among key risks. Snapshot: FDA approval 2026-09-23 for this FGFR2-altered CCA indication. Cite FDA.
   https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-lirafugratinib-previously-treated-unresectable-locally-advanced-or-metastatic
+- **[early]** Nature: bitopic kinase inhibitor design; PonatiLink-2 ABL1 preclinical — 2026-09-23
+  **Explainer:** Preclinical research on bitopic kinase inhibitor design (PonatiLink-2 vs ABL1), not an approved drug. Mechanism: linked/bitopic kinase inhibition concept in Nature. Origin not sourced this run. AEs N/A (preclinical). Snapshot: Nature paper 2026-09-23; no clinical approval. Cite Nature.
+  https://www.nature.com/articles/s41586-026-11056-8
+- **[late-trial]** Combined TETON-1/2: inhaled treprostinil for idiopathic pulmonary fibrosis (phase 3 pooled); AJRCCM — 2026-09-23
+  **Explainer:** Studied for idiopathic pulmonary fibrosis (IPF). Active ingredient treprostinil (prostacyclin analog), inhaled. Origin not sourced this run. Label AEs for inhaled treprostinil products include cough, headache, throat irritation, and nausea among common effects (product-class labeling; trial-specific pooled AE table not re-parsed this run). Snapshot: combined TETON-1/2 phase 3 pooled analysis in AJRCCM 2026-09-23. Cite DOI.
+  https://doi.org/10.1093/ajrccm/aamag507
+- **[news]** Innermost Loop daily (AWG) — Welcome to September 24, 2026 — 2026-09-24
+  **Explainer:** N/A — process news.
+  https://theinnermostloop.substack.com/p/welcome-to-september-24-2026
+- **[approved]** FDA approves Fayuvi (rebisufligene etisparvovec-hopf), first gene therapy for pediatric MPS IIIA (Sanfilippo type A) — 2026-09-17
+  **Explainer:** Treats pediatric mucopolysaccharidosis type IIIA (Sanfilippo syndrome type A). Active: rebisufligene etisparvovec-hopf (AAV gene therapy delivering SGSH). Origin not sourced this run. Label AEs not sourced this run. Snapshot: first FDA gene therapy for pediatric MPS IIIA (2026-09-17 press). Cite FDA.
+  https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type
+- **[early]** Nature Medicine: PANXEON blood miRNA + CA19-9 liquid biopsy for early PDAC detection (observational; not an approved test) — 2026-09-16
+  **Explainer:** Research liquid-biopsy approach for early pancreatic ductal adenocarcinoma detection using blood miRNA plus CA19-9 (observational; not an approved test). Origin not sourced this run. AEs N/A (diagnostic research). Snapshot: Nature Medicine 2026-09-16 observational performance report. Cite paper.
+  https://www.nature.com/articles/s41591-026-04625-x
+- **[news]** FDA finalizes Expedited IND Pilot; applications open through 2026-10-30 — 2026-09-15
+  **Explainer:** N/A — process news.
+  https://www.fda.gov/news-events/press-announcements/fda-launches-expedited-ind-pilot-begins-accepting-applications
