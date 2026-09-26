@@ -4,6 +4,18 @@ Running list. Newest first. News only — not medical advice. No disease "cross-
 
 ## 2026-09-26 (daily + recent backfill)
 
+- **[approved]** FDA approves Atebrioz (zilurgisertib) for fibrodysplasia ossificans progressiva (ages ≥12); reduces new HO volume vs placebo — 2026-09-25  
+  https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-third-treatment-fibrodysplasia-ossificans-progressiva
+
+- **[approved]** FDA approves Onswik (insulin efsitora alfa-gobe), once-weekly basal insulin for adults with type 2 diabetes (QWINT) — 2026-09-24  
+  https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-once-weekly-insulin-type-2-diabetes-mellitus
+
+- **[early]** Nature Medicine: EAGLE AI for esophageal cancer/HGIN detection on noncontrast CT (multicenter research; not approved screening) — 2026-09-22  
+  https://www.nature.com/articles/s41591-026-04656-4
+
+- **[device]** Neuralink VOICE early feasibility study recruiting (NCT07224256; speech BCI; investigational) — scout 2026-09-26  
+  https://clinicaltrials.gov/study/NCT07224256
+
 - **[approved]** FDA approves belzutifan (Welireg) + lenvatinib (Lenvima) for adults with advanced clear-cell RCC after PD-1/PD-L1 therapy — 2026-09-24  
   https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-belzutifan-combination-lenvatinib-advanced-renal-cell-carcinoma-clear-cell-component
 
