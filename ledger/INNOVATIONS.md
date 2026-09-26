@@ -106,10 +106,10 @@ Curated ~35 sourced landmarks (2020–2025 plus notable earlier-2026 YTD already
   https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2024
 
 - **[approved]** Imdelltra (tarlatamab-dlle) — DLL3 bispecific for extensive-stage SCLC — 2024-05-16  
-  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2024
+  https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-tarlatamab-dlle-extensive-stage-small-cell-lung-cancer
 
 - **[approved]** Winrevair (sotatercept-csrk) — first-in-class activin signaling inhibitor for PAH — 2024-03-26  
-  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2024
+  https://www.fda.gov/drugs/drug-trials-snapshots/drug-trials-snapshots-winrevair
 
 - **[approved]** Duvyzat (givinostat) — HDAC inhibitor for Duchenne muscular dystrophy (age ≥6) — 2024-03-21  
   https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2024
@@ -147,7 +147,7 @@ Curated ~35 sourced landmarks (2020–2025 plus notable earlier-2026 YTD already
   https://www.fda.gov/media/168890/download
 
 - **[approved]** Paxlovid (nirmatrelvir + ritonavir) — traditional approval for high-risk COVID-19 in adults — 2023-05-25  
-  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2023
+  https://www.fda.gov/drugs/drug-trials-snapshots/drug-trials-snapshots-paxlovid
 
 - **[approved]** Arexvy (RSVPreF3 OA) — first FDA-approved RSV vaccine (adults ≥60) — 2023-05-03  
   https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine
@@ -162,7 +162,7 @@ Curated ~35 sourced landmarks (2020–2025 plus notable earlier-2026 YTD already
   https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2023
 
 - **[approved]** Leqembi (lecanemab-irmb) — Alzheimer’s disease (anti-amyloid) — 2023-01-06  
-  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2023
+  https://www.fda.gov/drugs/drug-trials-snapshots/drug-trials-snapshots-leqembi
 
 ### 2022
 
@@ -179,7 +179,7 @@ Curated ~35 sourced landmarks (2020–2025 plus notable earlier-2026 YTD already
   https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2022
 
 - **[approved]** Kimmtrak (tebentafusp-tebn) — first therapy for unresectable/metastatic uveal melanoma — 2022-01-25  
-  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2022
+  https://www.fda.gov/drugs/drug-trials-snapshots/drug-trials-snapshots-kimmtrak
 
 ### 2021
 
