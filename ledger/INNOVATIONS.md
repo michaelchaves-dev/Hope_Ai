@@ -71,7 +71,7 @@ Curated ~35 sourced landmarks (2020–2025 plus notable earlier-2026 YTD already
 ### 2025 (selected CDER novel / first-in-class)
 
 - **[approved]** Journavx (suzetrigine) — novel non-opioid analgesic (Nav1.8); CDER novel 2025-01-30  
-  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025
+  https://www.fda.gov/news-events/press-announcements/fda-approves-novel-non-opioid-treatment-moderate-severe-acute-pain
 
 - **[approved]** Blujepa (gepotidacin) — novel oral antibacterial; CDER novel 2025-03-25  
   https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025
@@ -103,7 +103,7 @@ Curated ~35 sourced landmarks (2020–2025 plus notable earlier-2026 YTD already
   https://www.fda.gov/news-events/press-announcements/fda-approves-drug-new-mechanism-action-treatment-schizophrenia
 
 - **[approved]** Kisunla (donanemab-azbt) — Alzheimer’s disease (anti-amyloid) — 2024-07-02  
-  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2024
+  https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-adults-alzheimers-disease
 
 - **[approved]** Imdelltra (tarlatamab-dlle) — DLL3 bispecific for extensive-stage SCLC — 2024-05-16  
   https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2024
@@ -112,7 +112,7 @@ Curated ~35 sourced landmarks (2020–2025 plus notable earlier-2026 YTD already
   https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2024
 
 - **[approved]** Duvyzat (givinostat) — HDAC inhibitor for Duchenne muscular dystrophy (age ≥6) — 2024-03-21  
-  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2024
+  https://www.fda.gov/news-events/press-announcements/fda-approves-nonsteroidal-treatment-duchenne-muscular-dystrophy
 
 - **[approved]** Lenmeldy (atidarsagene autotemcel) — first gene therapy for children with metachromatic leukodystrophy — 2024-03-18  
   https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-children-metachromatic-leukodystrophy
@@ -132,10 +132,10 @@ Curated ~35 sourced landmarks (2020–2025 plus notable earlier-2026 YTD already
   https://www.fda.gov/news-events/press-announcements/fda-approves-new-medication-chronic-weight-management
 
 - **[approved]** Zurzuvae (zuranolone) — first oral postpartum depression therapy — 2023-08-04  
-  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2023
+  https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-treatment-postpartum-depression
 
 - **[approved]** Beyfortus (nirsevimab-alip) — long-acting monoclonal to prevent RSV LRTD in infants — 2023-07-17  
-  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2023
+  https://www.fda.gov/news-events/press-announcements/fda-approves-new-drug-prevent-rsv-babies-and-toddlers
 
 - **[approved]** Roctavian (valoctocogene roxaparvovec-rvox) — first gene therapy for adults with severe hemophilia A — 2023-06-29  
   https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-adults-severe-hemophilia
@@ -153,13 +153,13 @@ Curated ~35 sourced landmarks (2020–2025 plus notable earlier-2026 YTD already
   https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine
 
 - **[approved]** Qalsody (tofersen) — SOD1-ALS antisense oligonucleotide — 2023-04-25  
-  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2023
+  https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-amyotrophic-lateral-sclerosis-associated-mutation-sod1-gene
 
-- **[approved]** Daybue (trofinetide) — first FDA therapy for Rett syndrome — 2023-03-10  
-  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2023
+- **[approved]** Daybue (trofinetide) — first FDA therapy for Rett syndrome — 2023-03-12  
+  https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-treatment-rett-syndrome
 
 - **[approved]** Skyclarys (omaveloxolone) — first FDA therapy for Friedreich’s ataxia — 2023-02-28  
-  https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2023
+  https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-treatment-friedreichs-ataxia
 
 - **[approved]** Leqembi (lecanemab-irmb) — Alzheimer’s disease (anti-amyloid) — 2023-01-06  
   https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2023
