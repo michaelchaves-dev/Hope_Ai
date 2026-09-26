@@ -13,8 +13,8 @@ Running list. Newest first. News only — not medical advice. No disease "cross-
 - **[early]** Nature: bitopic kinase inhibitor design; PonatiLink-2 ABL1 preclinical — 2026-09-23  
   https://www.nature.com/articles/s41586-026-11056-8
 
-- **[late-trial]** TETON-1/2: inhaled treprostinil for idiopathic pulmonary fibrosis (phase 3); NEJM / AJRCCM reports — ~2026-09  
-  https://doi.org/10.1056/nejmoa2501488
+- **[late-trial]** Combined TETON-1/2: inhaled treprostinil for idiopathic pulmonary fibrosis (phase 3 pooled); AJRCCM — 2026-09-23  
+  https://doi.org/10.1093/ajrccm/aamag507
 
 - **[news]** Innermost Loop daily (AWG) — Welcome to September 24, 2026 — 2026-09-24  
   https://theinnermostloop.substack.com/p/welcome-to-september-24-2026
@@ -84,7 +84,7 @@ Curated ~35 sourced landmarks (2020–2025 plus notable earlier-2026 YTD already
 
 ### 2024
 
-- **[approved]** Kebilidi (eladocagene exuparvovec-tneq) — first gene therapy for AADC deficiency — 2024-11-13  
+- **[approved]** Kebilidi (eladocagene exuparvovec-tneq) — first gene therapy for AADC deficiency — 2024-11-14 (press; letter 2024-11-13)  
   https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-treatment-aromatic-l-amino-acid-decarboxylase-deficiency
 
 - **[approved]** Cobenfy (xanomeline + trospium) — first schizophrenia drug with muscarinic (non-dopamine) mechanism — 2024-09-26  
@@ -117,7 +117,7 @@ Curated ~35 sourced landmarks (2020–2025 plus notable earlier-2026 YTD already
   https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease
 
 - **[approved]** Zepbound (tirzepatide) — chronic weight management (obesity / overweight + comorbidity) — 2023-11-08  
-  https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/217806Orig1s000ltr.pdf
+  https://www.fda.gov/news-events/press-announcements/fda-approves-new-medication-chronic-weight-management
 
 - **[approved]** Zurzuvae (zuranolone) — first oral postpartum depression therapy — 2023-08-04  
   https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2023
@@ -126,19 +126,19 @@ Curated ~35 sourced landmarks (2020–2025 plus notable earlier-2026 YTD already
   https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2023
 
 - **[approved]** Roctavian (valoctocogene roxaparvovec-rvox) — first gene therapy for adults with severe hemophilia A — 2023-06-29  
-  https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products
+  https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-adults-severe-hemophilia
 
 - **[approved]** Elevidys (delandistrogene moxeparvovec-rokl) — first gene therapy for certain pediatric Duchenne muscular dystrophy patients — 2023-06-22  
   https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-treatment-certain-patients-duchenne-muscular-dystrophy
 
 - **[approved]** Abrysvo (RSVpreF) — RSV vaccine (adults ≥60 at approval) — 2023-05-31  
-  https://www.fda.gov/files/vaccines,%20blood%20&%20biologics/published/May-31-2023-Approval-Letter-ABRYSVO.pdf
+  https://www.fda.gov/media/168890/download
 
 - **[approved]** Paxlovid (nirmatrelvir + ritonavir) — traditional approval for high-risk COVID-19 in adults — 2023-05-25  
   https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2023
 
 - **[approved]** Arexvy (RSVPreF3 OA) — first FDA-approved RSV vaccine (adults ≥60) — 2023-05-03  
-  https://www.fda.gov/media/167806/download
+  https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine
 
 - **[approved]** Qalsody (tofersen) — SOD1-ALS antisense oligonucleotide — 2023-04-25  
   https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2023
@@ -161,7 +161,7 @@ Curated ~35 sourced landmarks (2020–2025 plus notable earlier-2026 YTD already
   https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2022
 
 - **[approved]** Skysona (elivaldogene autotemcel) — gene therapy for early cerebral adrenoleukodystrophy — 2022-09-16  
-  https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products
+  https://www.fda.gov/vaccines-blood-biologics/skysona
 
 - **[approved]** Mounjaro (tirzepatide) — GIP/GLP-1 dual agonist for type 2 diabetes — 2022-05-13  
   https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2022
